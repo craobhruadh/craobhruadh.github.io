@@ -1,11 +1,3 @@
----
-title: Predicting Housing Prices through Regression
-date: 2017-8-24 3:13:00
-categories:
-- Python
-- Regression
-- Jupyter Notebook
----
 
 # House Price Prediction through Regression
 
